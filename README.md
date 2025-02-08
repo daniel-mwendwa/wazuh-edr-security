@@ -1,7 +1,7 @@
 # Wazuh EDR Security  
 
 ## Overview  
-This repository contains an in-depth exploration of **Wazuh EDR**, an open-source **Endpoint Detection and Response (EDR)** solution for monitoring, analyzing, and securing endpoints. The project is based on practical exercises from TryHackMe's Wazuh module.  
+This repository contains an in-depth exploration of **Wazuh EDR**, an open-source **Endpoint Detection and Response (EDR)** solution for monitoring, analyzing, and securing endpoints.   
 
 ## Features Covered  
 - **Wazuh Agent Installation:** Setting up agents on Linux & Windows  
