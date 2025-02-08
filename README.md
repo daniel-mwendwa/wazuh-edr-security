@@ -24,8 +24,7 @@ This project is based on the [TryHackMe Wazuh Module](https://tryhackme.com/room
 
 ## Author  
 **Daniel M. Mwithui**  
-Cybersecurity Analyst | SOC Specialist  
-📧 danielmwendwa234@gmail.com  
+Cybersecurity Analyst | SOC Specialist   
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-mwendwa-bsc-a475311b7/)  
 🔗 [GitHub](https://github.com/daniel-mwendwa)  
 
