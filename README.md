@@ -19,9 +19,6 @@ To get started with Wazuh:
 3. Configure security monitoring policies  
 4. Integrate with external security tools for enhanced detection  
 
-## TryHackMe Room  
-This project is based on the [TryHackMe Wazuh Module](https://tryhackme.com/room/wazuhct).  
-
 ## Author  
 **Daniel M. Mwithui**  
 Cybersecurity Analyst | SOC Specialist   
