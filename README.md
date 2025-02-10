@@ -4,7 +4,7 @@
 This repository contains an in-depth exploration of **Wazuh EDR**, an open-source **Endpoint Detection and Response (EDR)** solution for monitoring, analyzing, and securing endpoints.   
 
 ## Features Covered  
-- **Wazuh Agent Installation:** Setting up agents on Linux & Windows   
+- **Wazuh Agent Installation:** Setting up agents on Linux & Windows    
 - **Vulnerability Assessment & Security Events:** Identifying threats and monitoring logs    
 - **Policy Auditing:** Configuring Wazuh policies for compliance  
 - **Log Collection & Analysis:** Gathering security events from various sources  
