@@ -8,7 +8,7 @@ This repository contains an in-depth exploration of **Wazuh EDR**, an open-sourc
 - **Vulnerability Assessment & Security Events:** Identifying threats and monitoring logs    
 - **Policy Auditing:** Configuring Wazuh policies for compliance   
 - **Log Collection & Analysis:** Gathering security events from various sources   
-- **Linux Command Auditing:** Monitoring system commands for anomalies  
+- **Linux Command Auditing:** Monitoring system commands for anomalies   
 - **Wazuh API Usage:** Automating security monitoring using the Wazuh API      
 - **Generating Reports:** Visualizing security insights through Wazuh dashboards  
 
