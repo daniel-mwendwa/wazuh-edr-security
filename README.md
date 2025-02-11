@@ -6,7 +6,7 @@ This repository contains an in-depth exploration of **Wazuh EDR**, an open-sourc
 ## Features Covered  
 - **Wazuh Agent Installation:** Setting up agents on Linux & Windows    
 - **Vulnerability Assessment & Security Events:** Identifying threats and monitoring logs      
-- **Policy Auditing:** Configuring Wazuh policies for compliance
+- **Policy Auditing:** Configuring Wazuh policies for compliance 
 - 
 - **Log Collection & Analysis:** Gathering security events from various sources   
 - **Linux Command Auditing:** Monitoring system commands for anomalies   
